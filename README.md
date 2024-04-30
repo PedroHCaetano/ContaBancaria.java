@@ -1,4 +1,4 @@
-<h1>Extratores</h1>
+<h1>Conta Bancária</h1>
 
 <h2>🚀 Sobre</h2>
 <p>O projeto de conta bancária consiste em replicar as operações realizadas dentro do serviço bancário.
